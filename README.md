@@ -5,12 +5,12 @@ Bootstrap web page, developed for showcase.
 # Description
 
 Confusion is a restaurant web page, it features the following components:
-* Different modals - [DONE]
-* Carousel - [DONE]
-* Responsive design - [DONE]
-* Bootstrap cards, tables, collapse, forms  - [DONE]
+* Different modals 
+* Carousel
+* Responsive design
+* Bootstrap cards, tables, collapse, forms 
 
-This project also used SASS, LESS and compiling methods like Gulp and Grunt.
+This project also uses SASS, LESS and compiling methods like Gulp and Grunt.
 
 ## Screenshots
 
